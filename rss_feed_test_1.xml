@@ -4,7 +4,13 @@
     <color>#0D2640</color>
     <language>en</language>
     <item>
-      <title>fdafaa</title>
+      <title>This is a test</title>
+    </item>
+    <item>
+      <title>This is another test</title>
+    </item>
+    <item>
+      <title>This is yet another test</title>
     </item>
   </channel>
 </rss>
