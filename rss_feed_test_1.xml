@@ -4,13 +4,16 @@
     <color>#0D2640</color>
     <language>en</language>
     <item>
-      <title>This is big ugga dugga option 1</title>
+      <title>Beep beep</title>
     </item>
     <item>
-      <title>This is small ugga dugga option 2</title>
+      <title>Boop boop</title>
     </item>
     <item>
-      <title>This is a third one cheeky of it</title>
+      <title>clink clink</title>
+    </item>
+    <item>
+      <title>clonk clonk</title>
     </item>
   </channel>
 </rss>
