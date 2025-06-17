@@ -1,0 +1,16 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>The Medicine Accelerator</title>
+    <color>#0D2640</color>
+    <language>en</language>
+    <item>
+      <title>This is going to be one news item</title>
+    </item>
+    <item>
+      <title>This is going to be another one</title>
+    </item>
+    <item>
+      <title>This is a third one just for the fun of it</title>
+    </item>
+  </channel>
+</rss>
